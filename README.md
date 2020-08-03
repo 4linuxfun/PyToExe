@@ -4,6 +4,7 @@ Pyinstaller GUI打包工具，方便python项目打包成exe。
 ### 环境依赖
 * python3.8
 * wxpython
+* pyinstaller
 
 ### python解释器
 建议选择pythonw.exe，后台执行打包程序，不会有终端显示。如果选择python.exe，则会显示一个终端界面。
